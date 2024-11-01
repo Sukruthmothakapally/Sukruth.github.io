@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Sukruth Mothakapally</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+
+    <!-- Wrapper -->
+    <div id="wrapper" class="fade-in">
+
+        <!-- Intro -->
+        <div id="intro">
+            <h1>Sukruth Mothakapally<br />Portfolio</h1>
+            <p>Tech enthusiast with a passion for Data and Machine Learning<br />
+            <ul class="actions">
+                <li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+            </ul>
+        </div>
+
+        <!-- Header -->
+        <header id="header">
+            <a href="index.html" class="logo">Sukruth Mothakapally</a>
+        </header>
+
+        <!-- Nav -->
+        <nav id="nav">
+            <ul class="links">
+                <li class="active"><a href="stackai.html">Big Data Systems</a></li>
+                <li class="active"><a href="index.html">Data Engineering</a></li>
+                <li><a href="tableau.html">Data Analysis</a></li>
+                <li><a href="wine.html">ML Models</a></li>
+                <li><a href="tensorflow.html">TensorFlow</a></li>
+                <li><a href="aws.html">AWS</a></li>
+            </ul>
+        </nav>
+
+        <!-- Main -->
+        <div id="main">
+
+            <!-- Featured Post -->
+            <article class="post featured">
+                <header class="major">
+                    <h2><a href="https://github.com/Sukruthmothakapally/AI-Powered-Outlook-Job-Tracker">AI-Powered Outlook Job Tracker<br /></a></h2>
+                    <p>An advanced job application tracking system that leverages AI and real-time notifications to help users stay on top of job applications from their Outlook emails.</p>
+                </header>
+
+                <ul class="actions special">
+                    <style>
+                        details summary { font-size: 24px; }
+                        .details-wrapper { display: flex; flex-direction: column; }
+                    </style>
+                    <div class="details-wrapper">
+                        <details>
+                            <summary>Project Features</summary>
+                            <div>
+                                <ul>
+                                    <li><strong>Intelligent Company Detection</strong> - Automatically detects company websites and provides real-time application status notifications.</li>
+                                    <li><strong>AI-Powered Analytics</strong> - Supports natural language querying, statistical analysis, and company-specific insights with vector similarity search for precise company matching.</li>
+                                    <li><strong>Automated Data Management</strong> - Regularly processes emails, categorizes data, and maintains up-to-date vector embeddings.</li>
+                                </ul>
+                            </div>
+                        </details>
+                </ul>
+
+                <!-- Images -->
+                <a href="#" class="image main"><img src="images/architecture_diagram.png" alt="Architecture Diagram" /></a>
+                <a href="#" class="image main"><img src="images/image1.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image2.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image9.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image3.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image4.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image5.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image6.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image7.png" alt="" /></a>
+                <a href="#" class="image main"><img src="images/image8.png" alt="" /></a>
+
+                <ul class="actions special">
+                    <style> details summary { font-size: 24px; } </style>
+                    <details>
+                        <summary>Tech Stack</summary>
+                        <div>
+                            <ul>
+                                <li><strong>Backend & AI</strong> - FastAPI framework in Python with PostgreSQL (pgvector) and GPT-4 for intelligent querying and data orchestration using Prefect.</li>
+                                <li><strong>Frontend</strong> - Chrome Extension with JavaScript, HTML, and CSS, featuring a custom popup UI and a natural language query interface.</li>
+                                <li><strong>Infrastructure & DevOps</strong> - Hosted on AWS (EC2, RDS), containerized with Docker & Docker Compose, CI/CD enabled via GitHub Actions, and version controlled with Git.</li>
+                            </ul>
+                        </div>
+                    </details>
+                </ul>
+
+            </article>
+
+        </div>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <section class="split contact">
+                <section>
+                    <h3>Email</h3>
+                    <p><a href="mailto:mothakapally.s@northeastern.edu">mothakapally.s@northeastern.edu</a></p>
+                </section>
+                <section>
+                    <h3>Social</h3>
+                    <ul class="icons alt">
+                        <li><a href="https://github.com/Sukruthmothakapally" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+                        <li><a href="https://www.linkedin.com/in/sukruthkm" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                    </ul>
+                </section>
+            </section>
+        </footer>
+
+        <!-- Copyright -->
+        <div id="copyright">
+            <ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+        </div>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
